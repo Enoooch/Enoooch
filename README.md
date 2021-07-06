@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on - My blog.
 - 🌱 I’m currently learning - Typescript.
 
-[![Enoooch's github stats](https://github-readme-stats.vercel.app/api?username=Enoooch&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+<!-- [![Enoooch's github stats](https://github-readme-stats.vercel.app/api?username=Enoooch&count_private=true&include_all_commits=true&theme=radical)](https://google.com) -->
 
 ### Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
