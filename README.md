@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning - Typescript.
 
 <!-- [![Enoooch's github stats](https://github-readme-stats.vercel.app/api?username=Enoooch&count_private=true&include_all_commits=true&theme=radical)](https://google.com) -->
+
+![Snake gif](https://github.com/Enoooch/Enoooch/blob/output/github-contribution-grid-snake.svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enoooch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
