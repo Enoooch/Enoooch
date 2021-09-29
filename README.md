@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on - My blog.
 - 🌱 I’m currently learning - Typescript.
 
-<!-- [![Enoooch's github stats](https://github-readme-stats.vercel.app/api?username=Enoooch&count_private=true&include_all_commits=true&theme=radical)](https://google.com) -->
+[![Enoooch's github stats](https://github-readme-stats.vercel.app/api?username=Enoooch&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 ![Snake gif](https://github.com/Enoooch/Enoooch/blob/output/github-contribution-grid-snake.svg)
 
