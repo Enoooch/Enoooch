@@ -4,7 +4,7 @@
 <!-- - 🔭 I’m currently working on - My blog. -->
 <!-- - 🌱 I’m currently learning - Typescript. -->
 
-![](https://github-readme-stats.vercel.app/api?username=Enoooch&count_private=true&show_icons=true&hide_title=true&theme=graywhite)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Enoooch&count_private=true&show_icons=true&hide_title=true&theme=graywhite) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enoooch&layout=compact) -->
 
 <!-- ![Snake gif](https://github.com/Enoooch/Enoooch/blob/output/github-contribution-grid-snake.svg) -->
