@@ -31,3 +31,5 @@
       Make dinner: 4: Me
       Watch sitcom: 5: Me
 ```
+
+![](http://profile-counter.glitch.me/enoooch/count.svg)
