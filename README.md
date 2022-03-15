@@ -32,4 +32,4 @@
       Watch sitcom: 5: Me
 ```
 
-![](http://profile-counter.glitch.me/enoooch/count.svg)
+<!-- ![](http://profile-counter.glitch.me/enoooch/count.svg) -->
