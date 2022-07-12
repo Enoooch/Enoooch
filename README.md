@@ -33,3 +33,8 @@
 ```
 
 <!-- ![](http://profile-counter.glitch.me/enoooch/count.svg) -->
+
+<!-- <p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/enoooch" />
+  <img src="https://komarev.com/ghpvc/?username=enoooch&label=Profile%20views&color=1abc9c&style=flat" />
+</p> -->
