@@ -19,7 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 
-```mermaid
+<!-- ```mermaid
   journey
     title My working day
     section Go to work
@@ -30,7 +30,7 @@
       Go downstairs: 4: Me
       Make dinner: 4: Me
       Watch sitcom: 5: Me
-```
+``` -->
 
 <!-- ![](http://profile-counter.glitch.me/enoooch/count.svg) -->
 
