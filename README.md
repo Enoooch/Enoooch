@@ -38,3 +38,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/enoooch" />
   <img src="https://komarev.com/ghpvc/?username=enoooch&label=Profile%20views&color=1abc9c&style=flat" />
 </p> -->
+
+<p align="left">
+  <a href="https://app.daily.dev/Necho"><img src="https://github.com/Enoooch/Enoooch/blob/main/devcard.svg" width="200" alt="Necho's Dev Card"/></a>
+</p>
