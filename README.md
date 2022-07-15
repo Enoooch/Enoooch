@@ -42,3 +42,9 @@
 <p align="left">
   <a href="https://app.daily.dev/Necho"><img src="https://github.com/Enoooch/Enoooch/blob/main/devcard.svg" width="200" alt="Necho's Dev Card"/></a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Enoooch)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Enoooch&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Enoooch)  
