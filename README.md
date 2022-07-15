@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!-- ## Brief -->
 <!-- - 🔭 I’m currently working on - My blog. -->
@@ -39,12 +39,14 @@
   <img src="https://komarev.com/ghpvc/?username=enoooch&label=Profile%20views&color=1abc9c&style=flat" />
 </p> -->
 
-<p align="left">
-  <a href="https://app.daily.dev/Necho"><img src="https://github.com/Enoooch/Enoooch/blob/main/devcard.svg" width="200" alt="Necho's Dev Card"/></a>
-</p>
+![download](https://user-images.githubusercontent.com/39915133/179147718-e6e1dda0-7ef7-491b-9935-f359c8b1aa5b.png)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Enoooch)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Enoooch&show_icons=true)  
+
+<p align="left">
+  <a href="https://app.daily.dev/Necho"><img src="https://github.com/Enoooch/Enoooch/blob/main/devcard.svg" width="200" alt="Necho's Dev Card"/></a>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/Enoooch)  
